@@ -1,4 +1,4 @@
-# TripleTen Sprint X Project – EDA & Statistical Analysis
+# TripleTen Sprint 3 Project – EDA & Statistical Analysis
 This project was part of the TripleTen Data Science program. It focused on analyzing customer behavior across two Megaline mobile plans — Surf and Ultimate — to understand usage patterns and revenue performance.
 
 ---
